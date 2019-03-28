@@ -1,0 +1,15 @@
+client
+remote 192.168.0.111
+ca /home/adminus/Documents/kron-vpnpoint/ca.crt
+cert /home/adminus/Documents/kron-vpnpoint/kroneis-pc.crt
+key /home/adminus/Documents/kron-vpnpoint/kroneis-pc.key
+cipher AES-256-CBC
+dev tun
+proto tcp
+nobind
+auth-nocache
+script-security 2
+persist-key
+persist-tun
+user nobody
+group nogroup
