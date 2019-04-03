@@ -1,7 +1,7 @@
 # LtAPminiLTE_OpenVPNstation
 Connect mikrotik LtAP mini vere LTE to Openvpn
 
-![912R-2nD blockdiagram][./912R-2nD-180627115427.png]
+![912R-2nD blockdiagram](./912R-2nD-180627115427.png)
 
 **in developmant!**
 
