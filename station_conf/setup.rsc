@@ -14,6 +14,7 @@
   :global EmailFrom "mail@example.com";
   :global EmailPW "123456";
 
+  :global OvpnIP "example.com";
   :global OvpnUser "abc";
   :global OvpnPW "1234567";
   
