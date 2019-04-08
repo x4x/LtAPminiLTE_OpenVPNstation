@@ -17,6 +17,6 @@
   :global OvpnUser "abc";
   :global OvpnPW "1234567";
   
-
-
+  :global user "kron";
+  :global pw "1234";
 }
